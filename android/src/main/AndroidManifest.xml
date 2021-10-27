@@ -1,6 +1,10 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.reactlibrary">
+  package="com.reactlibrary"
+  android:screenOrientation="portrait"
+  tools:replace="android:screenOrientation"
+  android:stateNotNeeded="true"
+>
 
 </manifest>
   
