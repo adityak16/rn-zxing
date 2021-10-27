@@ -1,0 +1,26 @@
+{
+  "name": "react-native-rn-zxing",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "native": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "zxing",
+    "qr",
+    "barcode",
+    "qrreader",
+    "codebar",
+    "pdf417",
+    "zxing-qr",
+    "react-native-zxing"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.62.2"
+  }
+}

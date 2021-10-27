@@ -1,0 +1,6 @@
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/RnZxingPackage.java
+ com.reactlibrary.RnZxingPackage
+com/reactlibrary/RnZxingModule.java
+ com.reactlibrary.RnZxingModule
