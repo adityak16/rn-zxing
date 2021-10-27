@@ -1,0 +1,12 @@
+node_modules
+
+# Android/
+local.properties
+build/
+.gradle
+android/app/build
+android/.idea/
+android/CollectPlusStoreScan.iml
+android/app/app.iml
+
+.DS_Store
